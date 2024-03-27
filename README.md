@@ -6,6 +6,10 @@ YouTube Data Extractor: A Streamlit application that allows users to extract dat
 
 YouTube Data Analyzer: Another Streamlit application that provides various insights and analytics based on the data stored in the MySQL database. Users can select from a list of predefined questions to get insights such as most viewed videos, channels with the most videos, total likes and dislikes for each video, and more.
 
+![extraction process](https://github.com/naveen8680/Data_Science_Projects/assets/160575974/b30f3d8c-a400-47ac-911d-d09cb44405dc)
+![view](https://github.com/naveen8680/Data_Science_Projects/assets/160575974/391945ba-23eb-4e3a-ac88-95910a2ba332)
+
+
 Features:
 1.Channel Information Extraction: The application allows users to input a YouTube channel ID. Upon clicking the "Extract" button, the application retrieves various details about the channel, such as its name, subscription count, views, total videos, and description.
 
